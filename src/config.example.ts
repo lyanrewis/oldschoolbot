@@ -8,7 +8,7 @@ import {
 	TwitterAppConfig
 } from './lib/types';
 
-export const botToken = '';
+export const botToken = 'NzYxNjgwMjA4NjIwMTU5MDE2.X3eH-Q.HZ5zwTTgxuQlL8oDCf9UsmEIo7U';
 export const providerConfig: ProviderConfig | null = {
 	default: 'json'
 };
